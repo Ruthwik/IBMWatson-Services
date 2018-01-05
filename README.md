@@ -19,9 +19,10 @@ Watson Conversation is used wherever it is required to add conversational capabi
 
 ### Prerequisite
 
-	* [Create a workspace](https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-conversation-workspace)
-	* [Create intents](https://console.bluemix.net/docs/services/conversation/intents.html#defining-intents)
-	* [Build a dialog](https://console.bluemix.net/docs/services/conversation/dialog-build.html#dialog-build)
+ * [Conversation](conversation)
+ * [Create a workspace](https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-conversation-workspace)
+ * [Create intents](https://console.bluemix.net/docs/services/conversation/intents.html#defining-intents)
+ * [Build a dialog](https://console.bluemix.net/docs/services/conversation/dialog-build.html#dialog-build)
 	
 	
 
