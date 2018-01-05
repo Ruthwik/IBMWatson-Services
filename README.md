@@ -17,11 +17,13 @@ Some of the IBM Watson Services
 
 Watson Conversation is used wherever it is required to add conversational capability to the apps to engage with end-users on their platforms of choice
 
-#####Prerequisite
+Prerequisite
 
 	* [Create a workspace](https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-conversation-workspace)
 	* [Create intents](https://console.bluemix.net/docs/services/conversation/intents.html#defining-intents)
 	* [Build a dialog](https://console.bluemix.net/docs/services/conversation/dialog-build.html#dialog-build)
+	
+	
 
 ```Java
 	static Conversation service;
@@ -46,7 +48,7 @@ Watson Conversation is used wherever it is required to add conversational capabi
 	}
 
 ```
-####Output
+###Output
 
 The reponse from the conversation service is based on the configured intents,entities and dialog.
 
@@ -78,7 +80,7 @@ The service analyzes unstructured text to extract metadata such as entities, gen
 	}
 
 ```
-####Output
+###Output
 
 This a sample output for keywords of a text. The relevance number shows how much the keyword is relevant to the text.
 ```Java
@@ -100,7 +102,7 @@ The Watson Language Translator service provides domain-specific translation betw
 Supported Languages:
 English, Arabic, French, German, Italian, Japanese, Portuguese, Korean, and Spanish
 
-####Input
+#### Input
 
 Language: English
 ```Java
@@ -108,7 +110,7 @@ Watson is a question answering computer system capable of answering questions po
 developed in IBM's DeepQA project by a research team led by principal investigator David Ferrucci.
 ```
 
-####Output
+### Output
 
 Language: German
 ```Java
@@ -117,6 +119,7 @@ Watson ist eine Frage beantwortet Computersystem kann der Beantwortung von Anfra
 ```
 
 ## References
+
 
 	* [Java SDK](https://github.com/watson-developer-cloud/java-sdk) to use the IBM Watson service
 	* [IBM Cloud docs](https://console.bluemix.net/docs/services)
