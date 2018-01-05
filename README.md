@@ -19,7 +19,6 @@ Watson Conversation is used wherever it is required to add conversational capabi
 
 ### Prerequisite
 
- * [Conversation](conversation)
  * [Create a workspace](https://console.bluemix.net/docs/services/conversation/configure-workspace.html#configuring-a-conversation-workspace)
  * [Create intents](https://console.bluemix.net/docs/services/conversation/intents.html#defining-intents)
  * [Build a dialog](https://console.bluemix.net/docs/services/conversation/dialog-build.html#dialog-build)
@@ -121,6 +120,5 @@ Watson ist eine Frage beantwortet Computersystem kann der Beantwortung von Anfra
 
 ## References
 
-
-	* [Java SDK](https://github.com/watson-developer-cloud/java-sdk) to use the IBM Watson service
-	* [IBM Cloud docs](https://console.bluemix.net/docs/services)
+ * [Java SDK](https://github.com/watson-developer-cloud/java-sdk) to use the IBM Watson service
+ * [IBM Cloud docs](https://console.bluemix.net/docs/services)
